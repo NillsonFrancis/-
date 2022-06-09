@@ -4,4 +4,4 @@
 > [参考](https://www.bilibili.com/video/BV1mq4y1n7aE?spm_id_from=333.999.0.0 "『整活』用百万汉字拼一张彩色照片")
 > 
 > 
-<iframe src="https://www.bilibili.com/video/BV1mq4y1n7aE?spm_id_from=333.999.0.0"></iframe>
+<iframe src="//player.bilibili.com/player.html?aid=547251339&bvid=BV1mq4y1n7aE&cid=391649117&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
